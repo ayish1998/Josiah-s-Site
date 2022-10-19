@@ -93,7 +93,7 @@ $headers .= 'From: '.$email."\r\n".
     'X-Mailer: PHP/' . phpversion();
  
 // Compose a simple HTML email message
-$message = "$message \r\n <br/>
+$message = "$message' \r\n <br/>
                 Name : $name\r\n <br/>
                 Email : $email \r \n<br/>
                 Subject : $subject \r \n<br/>
