@@ -537,6 +537,7 @@ margin-top: 30px;
 .project .project-item-inner .project-img img{
   width: 100%;
   display: block;
+  border: 1px solid red !important;
 }
 
 /*Gallery stlying*/
