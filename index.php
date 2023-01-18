@@ -80,7 +80,7 @@ disabled >
     $content = $_POST["content"];
 
 
-    $to = 'yawomessie@gmail.com';
+    $to = 'a.saeed@alustudent.com';
   
  
 // To send HTML mail, the Content-type header must be set
