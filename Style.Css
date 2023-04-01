@@ -583,7 +583,6 @@ margin-top: 30px;
 .gallery .gallery-item-inner{
   border: 6px solid var(--bg-black-100);
   overflow: hidden;
-  cursor: pointer;
   border-radius: 10px;
 }
 .gallery .gallery-item-inner .gallery-img img{
